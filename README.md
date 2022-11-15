@@ -35,8 +35,10 @@
 
 ## Social Networks :iphone:
 
-<alt="Foto"></a> <a id="instagram" href="https://www.instagram.com/harold98g/"><img width='65px' src="https://logos-world.net/wp-content/uploads/2020/06/Instagram-Logo-700x394.png" alt="Foto"
-a id="telegram" target="_blank" href="https://t.me/haroldymart"><img width='63px' src="https://logos-world.net/wp-content/uploads/2021/03/Telegram-Logo.png" alt="Foto"></a> <a id="whatsapp" href="https://wa.me/+8493762615"><img width='70px' src="https://logos-world.net/wp-content/uploads/2020/05/WhatsApp-Logo.png"></a>
+<a id="instagram" href="https://www.instagram.com/harold98g/"><img width='65px' src="https://logos-world.net/wp-content/uploads/2020/06/Instagram-Logo-700x394.png" alt="Foto"></a>
+<a id="telegram" target="_blank" href="https://t.me/haroldymart"><img width='63px' src="https://logos-world.net/wp-content/uploads/2021/03/Telegram-Logo.png" alt="Foto"></a> 
+<a id="whatsapp" href="https://wa.me/+8493762615"><img width='70px' src="https://logos-world.net/wp-content/uploads/2020/05/WhatsApp-Logo.png" alt="Foto"></a> 
+
 
 &nbsp;
 
