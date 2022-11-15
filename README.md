@@ -9,7 +9,7 @@
 - I'm currently studying at Instituto Tecnologico Las Americas (ITLA) 🎓
 - I live in Dominican Republic 🌎
 - My Email: HaroldM09@outlook.com 📫
-- My Phone Number: 849-376-8138 ☎️ 
+- My Phone Number: 849-376-2615 ☎️ 
 - Languages: Spanish (Native), English (Intermediate)
 
 &nbsp;
@@ -37,18 +37,16 @@
 
 ## Social Networks :iphone:
 
-<a id="telegram" target="_blank" href="https://t.me/haroldy"><img width='63px' src="https://logos-world.net/wp-content/uploads/2021/03/Telegram-Logo.png" alt="Foto"></a> <a id="whatsapp" href="https://wa.me/+18297508138"><img width='70px' src="https://logos-world.net/wp-content/uploads/2020/05/WhatsApp-Logo.png" alt="Foto"></a> <a id="whatsapp" href="https://www.instagram.com/_chococrema/"><img width='65px' src="https://logos-world.net/wp-content/uploads/2020/06/Instagram-Logo-700x394.png" alt="Foto"></a>
+<a id="telegram" target="_blank" href="https://t.me/haroldymart"><img width='63px' src="https://logos-world.net/wp-content/uploads/2021/03/Telegram-Logo.png" alt="Foto"></a> <a id="whatsapp" href="https://wa.me/+8494762615"><img width='70px' src="https://logos-world.net/wp-content/uploads/2020/05/WhatsApp-Logo.png" alt="Foto"></a> <a id="instagram" href="https://www.instagram.com/harold98g/"><img width='65px' src="https://logos-world.net/wp-content/uploads/2020/06/Instagram-Logo-700x394.png" alt="Foto"></a>
 
 &nbsp;
 
 ## Stats :bar_chart:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxmrrbl&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) &nbsp; &nbsp; &nbsp; ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mxmrrbl&show_icons=true&theme=default)
-
-
-## Stats:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaroldMart&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) &nbsp; &nbsp; 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=
+HaroldMart&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) &nbsp; &nbsp; &nbsp; 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=
+HaroldMart&show_icons=true&theme=default)
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username= Tcriss&show_icons=true&theme=transparent)  -->
 
 <!---
