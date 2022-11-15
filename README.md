@@ -2,17 +2,26 @@
 ![wallhaven-6kzejl](https://user-images.githubusercontent.com/93040571/153111507-2286838c-3804-4d7c-82d8-999f9fb4c56f.jpg)
 
 
-## Personal Stuffs
+## About Me :bust_in_silhouette:
 
 - I'm currently a student at ITLA (Instituto Tecnologico Las Americas).
 - I live in Dominican Republic.
+
+👋 Hi, I’m Maxi Morrobel
+🌎 I live in Dominican Republic
+🧑‍💻 Software Developer
+👀 I’m interested in Desktop and Web Development
+🎓 I’m currently studying at Instituto Tecnológico de Las Américas (ITLA)
+📫 Email maxicueto603@gmail.com
+☎️ Phone number 829-750-8138
+ 
 
 I know Spanish (Native) and English (Intermediate)
 
 ----------------------------------------------------------------------------------
 
 
-## My Skills
+## My Skills :computer:
 <br>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -22,10 +31,8 @@ I know Spanish (Native) and English (Intermediate)
 ![Python](https://img.shields.io/badge/-Python-succes?style=for-the-badge&logo=python)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Java](https://img.shields.io/badge/-java-red?style=for-the-badge&logo=java)
-![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql)
+![PostgreSQL](ttps://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
-![SqlServer](https://img.shields.io/badge/-SqlServer-red?style=for-the-badge&logo=microsoftsqlserver)
 
 
 &nbsp;
