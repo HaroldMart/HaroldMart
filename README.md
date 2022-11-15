@@ -21,15 +21,16 @@
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)
+![SqlServer](https://img.shields.io/badge/-SQLServer-red?style=for-the-badge&logo=Sqlserver&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Pycharm](https://img.shields.io/badge/-Pycharm-green?style=for-the-badge&logo=Pycharm&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![vscode](https://img.shields.io/badge/-Vscode-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Java](https://img.shields.io/badge/-java-E34A86?style=for-the-badge&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/-java-red?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-red?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![SqlServer](https://img.shields.io/badge/-SQLServer-red?style=for-the-badge&logo=Sqlserver&logoColor=white)
-![Pycharm](https://img.shields.io/badge/-Pycharm-green?style=for-the-badge&logo=Pycharm&logoColor=white)
 
 &nbsp;
 
