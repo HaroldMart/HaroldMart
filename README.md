@@ -23,13 +23,13 @@
 ![python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=python)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![vscode](https://img.shields.io/badge/-Vscode-blue?style=flat-square&logo=visualstudiocode)
+![vscode](https://img.shields.io/badge/-Vscode-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![SqlServer](https://img.shields.io/badge/-SqlServer-red?style=flat-square&logo=Sqlserver)
+![SqlServer](https://img.shields.io/badge/-SQLServer-red?style=flat-square&logo=Sqlserver)
 ![Pycharm](https://img.shields.io/badge/-Pycharm-black?style=flat-square&logo=Pycharm)
 
 &nbsp;
