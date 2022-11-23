@@ -31,7 +31,7 @@
 
 **Technology being learned**
 <br>
-![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
 ![Typescript](https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=typescript)
 
 &nbsp;
