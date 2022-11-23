@@ -24,7 +24,6 @@
 ![SqlServer](https://img.shields.io/badge/-SQLServer-red?style=for-the-badge&logo=Sqlserver&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Pycharm](https://img.shields.io/badge/-Pycharm-green?style=for-the-badge&logo=Pycharm&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![vscode](https://img.shields.io/badge/-Vscode-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
