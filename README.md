@@ -29,6 +29,11 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-red?style=for-the-badge&logo=git&logoColor=white)
 
+**Technology being learned**
+<br>
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![Typescript](https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=typescript)
+
 &nbsp;
 
 ## Social Networks :iphone:
