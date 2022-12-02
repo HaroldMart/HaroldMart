@@ -20,7 +20,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
-![Csharp](https://img.shields.io/badge/-Csharp-black?style=for-the-badge&logo=Csharp)
+![Csharp](https://img.shields.io/badge/-Csharp-563D7C?style=for-the-badge&logo=Csharp)
 ![SqlServer](https://img.shields.io/badge/-SQLServer-red?style=for-the-badge&logo=Sqlserver&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Pycharm](https://img.shields.io/badge/-Pycharm-green?style=for-the-badge&logo=Pycharm&logoColor=white)
