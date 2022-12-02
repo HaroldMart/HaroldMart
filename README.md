@@ -23,7 +23,6 @@
 ![Csharp](https://img.shields.io/badge/-Csharp-black?style=for-the-badge&logo=Csharp)
 ![SqlServer](https://img.shields.io/badge/-SQLServer-red?style=for-the-badge&logo=Sqlserver&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/Php-CC6699?style=for-the-badge&logo=php&logoColor=white)
 ![Pycharm](https://img.shields.io/badge/-Pycharm-green?style=for-the-badge&logo=Pycharm&logoColor=white)
 ![vscode](https://img.shields.io/badge/-Vscode-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -34,6 +33,8 @@
 <br>
 ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
 ![Typescript](https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=typescript)
+![PHP](https://img.shields.io/badge/Php-563D7C?style=for-the-badge&logo=php)
+
 
 &nbsp;
 
