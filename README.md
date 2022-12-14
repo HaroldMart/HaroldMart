@@ -34,6 +34,8 @@
 ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
 ![Typescript](https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=typescript)
 ![PHP](https://img.shields.io/badge/Php-563D7C?style=for-the-badge&logo=php)
+![.NET](https://img.shields.io/badge/-.NET-purple?style=for-the-badge&logo=.NET)
+
 
 
 &nbsp;
