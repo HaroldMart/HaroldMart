@@ -32,7 +32,7 @@
 **Technology being learned**
 <br>
 ![.NET](https://img.shields.io/badge/-.NET-purple?style=for-the-badge&logo=.NET)
-![Typescript](https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![PHP](https://img.shields.io/badge/Php-563D7C?style=for-the-badge&logo=php)
 
 
