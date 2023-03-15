@@ -27,8 +27,8 @@
 ![vscode](https://img.shields.io/badge/-Vscode-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-red?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Technology being learned**
 <br>
