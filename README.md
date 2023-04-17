@@ -6,7 +6,6 @@
 - I'm currently studying at Instituto Tecnologico Las Americas (ITLA) 🎓
 - I live in Dominican Republic 🌎
 - My Email: HaroldM09@outlook.com 📫
-- My Phone Number: 849-376-2615 ☎️  
 - Languages: Spanish (Native), English (B1) 💬
 
 &nbsp;
