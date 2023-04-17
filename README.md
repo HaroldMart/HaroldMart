@@ -30,7 +30,7 @@
 **Technology being learned**
 <br>
 ![.NET](https://img.shields.io/badge/-.NET-purple?style=for-the-badge&logo=.NET)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![PHP](https://img.shields.io/badge/Php-563D7C?style=for-the-badge&logo=php)
 
 
