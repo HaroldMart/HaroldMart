@@ -29,6 +29,7 @@
 
 **Technology being learned**
 <br>
+<br>
 ![.NET](https://img.shields.io/badge/-.NET-purple?style=for-the-badge&logo=.NET)
 
 &nbsp;
