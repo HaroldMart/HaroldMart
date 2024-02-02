@@ -29,7 +29,8 @@
 <br>
 
 ![.NET](https://img.shields.io/badge/-.NET-purple?style=for-the-badge&logo=.NET)
-![Firebase](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python&logoColor=white)
 
 &nbsp;
 
