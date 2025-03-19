@@ -29,7 +29,7 @@
 <br>
 
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white) <br>
-![Java](https://img.shields.io/badge/Java-brown?style=for-the-badge&logo=coffeescript&logoColor=blue) <br>
+![Java](https://img.shields.io/badge/Java-grey?style=for-the-badge&logo=coffeescript&logoColor=blue) <br>
 ![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python&logoColor=blue) <br>
 ![Oracle Database](https://img.shields.io/badge/Oracle_Databae-brown?style=for-the-badge&logo=databricks&logoColor=white)
 
