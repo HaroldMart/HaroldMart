@@ -16,7 +16,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/-Csharp-563D7C?style=for-the-badge&logo=dotnet)
+![C#](https://img.shields.io/badge/Csharp-563D7C?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SqlServer](https://img.shields.io/badge/-SQLServer-brown?style=for-the-badge&logo=databricks&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
