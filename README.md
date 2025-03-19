@@ -33,6 +33,8 @@
 ![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python&logoColor=blue) <br>
 ![Oracle Database](https://img.shields.io/badge/Oracle_Databae-brown?style=for-the-badge&logo=databricks&logoColor=white)
 
+APIs - QA - Web Programming
+
 &nbsp;
 
 ## Social Networks :iphone:
